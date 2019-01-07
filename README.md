@@ -12,7 +12,6 @@ Curiosities:
 * The One Time Pad algorithm key is generated using the user's password as seed
 * A method has been created to reduce a md5 to 22 characters
 
-![alt text](https://gearlo.000webhostapp.com/Encryptor/screenshots/cry_01.png "")
 ![alt text](https://gearlo.000webhostapp.com/Encryptor/screenshots/cry_5.png "")
 ![alt text](https://gearlo.000webhostapp.com/Encryptor/screenshots/cry_4.png "")
 
